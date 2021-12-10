@@ -1,0 +1,57 @@
+.Box{
+  display: flex;
+  border: 1px solid Black ;
+}
+.Box2{
+   width:100%;
+   flex:3;
+   text-align: center;
+   padding:10px;
+}
+.Box1{
+   flex:1;
+  padding:10px;
+}
+.Box4{
+  border: 1px solid Black;
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.Box5{
+  border: 1px solid Black;
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.Box6{
+  margin-top: 10px;
+  display: flex;
+  border: 1px solid Black ;
+}
+.Box7{
+  border: 1px solid Black ;
+   width:100%;
+   text-align: center;
+   padding:10px;
+   margin: 10px;
+}
+.Box8{
+  border: 1px solid Black ;
+   width:100%;
+   text-align: center;
+   padding:10px;
+   margin: 10px;
+}
+.Box9{
+  border: 1px solid Black;
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.Box10{
+  border: 1px solid Black;
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+}
